@@ -1,2 +1,3 @@
-﻿  源.c
+﻿  输出自定义行数的三角.c
+H:\C语言\code-practice\code_2.9\code_2.9\输出自定义行数的三角.c(9,2): warning C4098: “main”:“void”函数返回值
   code_2.9.vcxproj -> H:\C语言\code-practice\code_2.9\Debug\code_2.9.exe
