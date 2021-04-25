@@ -1,0 +1,7 @@
+﻿D:\Software\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1069,5): warning MSB8027: 名为 源.c 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 ..\..\..\代码练习\code_4.19\code_4.19\源.c, 源.c。
+  源.c
+H:\代码练习\code_4.19\code_4.19\源.c(17,15): warning C4047: “=”:“int”与“int *”的间接级别不同
+H:\代码练习\code_4.19\code_4.19\源.c(19,19): warning C4047: “=”:“int *”与“int”的间接级别不同
+H:\代码练习\code_4.19\code_4.19\源.c(30,11): warning C4047: “函数”:“int **”与“int (*)[9]”的间接级别不同
+H:\代码练习\code_4.19\code_4.19\源.c(30,7): warning C4024: “Sort”: 形参和实参 1 的类型不同
+  code_4.20.vcxproj -> H:\C语言\code_4.20\Debug\code_4.20.exe
